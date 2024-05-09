@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Xafe42
 - 👀 I’m interested in Programming, Music, DJ
 - 🌱 I’m currently learning Software Engineering
-- 📫 How to reach me https://www.instagram.com/420dreamscape/
+- 📫 How to reach me on Discord: Xafe42
 - ⚡ Fun fact: ...
 
 ## Technologien und Tools
