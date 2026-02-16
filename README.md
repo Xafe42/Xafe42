@@ -14,6 +14,12 @@
 ### 🛠️ Tools & Workflow
 - **Sicherer Umgang:** Git (Versionsverwaltung) & Shell-Scripting
 
+### 🎨 Design & Interaktion
+- **UI/UX Design:** Gestaltung intuitiver Nutzeroberflächen und User Experiences
+- **Human-Computer Interaction (HCI):** Anwendung nutzerzentrierter Design-Prinzipien
+- **Barrierefreiheit:** Fokus auf inklusives und barrierefreies Design (A11y)
+- **Adobe Creative Cloud:** Professionelle Bildbearbeitung & Layout (Photoshop, InDesign, Illustrator)
+
 ## 🗣️ .sprachen
 - **Deutsch:** Muttersprache
 - **Englisch:** Fortgeschrittene Kenntnisse
