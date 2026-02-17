@@ -11,6 +11,11 @@
 - **Fundierte Kenntnisse:** Java (inkl. Projekte in Android Studio) & Python (Data Science)
 - **Eigenständige Projekte:** Implementierung einer mobilen Chat-Anwendung mit Flutter & Dart
 
+### 🗄️ Datenbanken
+- **Relationale Datenbanken:** Fundierte Kenntnisse in SQL (SELECT, JOIN, GROUP BY, Normalisierung)
+- **Praktische Erfahrung:** MySQL
+- **NoSQL:** MongoDB
+
 ### 🛠️ Tools & Workflow
 - **Sicherer Umgang:** Git (Versionsverwaltung) & Shell-Scripting
 - **KI-Unterstützung:** Fundiertes **Prompt Engineering** (Gemini & GitHub Copilot) – im Studium erlernt und gezielt zur Effizienzsteigerung im Development-Prozess eingesetzt.
