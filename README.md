@@ -1,7 +1,7 @@
 # 🚀 Hello World, I'm @Xafe42
 ### Andrijan Berton | Medieninformatik-Student @ BHT Berlin
 
-## 💻 .skills
+## 💻 Skills
 
 ### 🌐 Web-Entwicklung
 - **Sicherer Umgang:** HTML5, CSS3 & TypeScript
@@ -26,11 +26,11 @@
 - **Barrierefreiheit:** Fokus auf inklusives und barrierefreies Design (A11y)
 - **Adobe Creative Cloud:** Professionelle Bildbearbeitung & Layout (Photoshop, InDesign, Illustrator)
 
-## 🗣️ .sprachen
+## 🗣️ Sprachen
 - **Deutsch:** Muttersprache
 - **Englisch:** Fortgeschrittene Kenntnisse
 
-## 🎨 .freizeit
+## 🎨 Freizeit
 - 📸 Fotografie
 - 🎧 Musikproduktion
 - 💻 Programmieren
