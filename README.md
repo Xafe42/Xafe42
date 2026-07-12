@@ -44,13 +44,15 @@ Mitarbeit an einer Drei-Seiten-Marketplace-Plattform (Kunde, Dienstleister, Admi
 ---
 
 ## 🗣️ Sprachen
-- 🇩🇪 **Deutsch:** Muttersprache
-- 🇬🇧 **Englisch:** Fortgeschrittene Kenntnisse
+- **Deutsch:** Muttersprache
+- **Englisch:** Fortgeschrittene Kenntnisse
 
 ---
 
 ## 🎨 Freizeit
-📸 Fotografie · 🎧 Musikproduktion · 💻 Programmieren
+📸 Fotografie 
+🎧 Musikproduktion 
+💻 Programmieren
 
 
 ![Profil-Banner](https://github.com/Xafe42/Xafe42/assets/167307478/827da1c5-6552-45d8-a3ab-016913e2f32a)
